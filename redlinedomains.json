@@ -1,1 +1,70 @@
-[  {    "name": "ELITE",    "url": "https://elite.modojotolo.xyz/tcode/V1/API-V1.php"  },  {    "name": "BRAVO",    "url": "https://bravo.modojotolo.xyz/bravo/V1/API-V1.php"  },  {    "name": "FLIX",    "url": "https://flix.modojotolo.xyz/flix/tcode/V1/API-V1.php"  },  {    "name": "SPORT",    "url": "https://sport.modojotolo.xyz/spider/pro.php"  },  {    "name": "IPFOX",    "url": "https://activefox.modojotolo.xyz/ipfox-v7/GET.php"  },  {    "name": "POWER",    "url": "https://power.modojotolo.xyz/iptv/V7/API-V7.php"  },  {    "name": "MONDIAL",    "url": "https://mondial.modojotolo.xyz/mondial/v1.php"  },  {    "name": "CLOUD",    "url": "https://cloud.modojotolo.xyz/tcode/V1/API-V1.php"  },  {    "name": "SPIDER",    "url": "https://spider.modojotolo.xyz/iptv/V7/API-V7.php"  },  {    "name": "MYHD",    "url": "https://myhd.modojotolo.xyz/iptvkn9585/V6/MyHD.php"  },  {    "name": "TURBO",    "url": "https://turbo.modojotolo.xyz/iptvkn9585/V6/Turbo.php"  },  {    "name": "SPEED",    "url": "https://speed.modojotolo.xyz/iptvkn9585/V6/MaxFly.php"  },  {    "name": "ZONE",    "url": "https://zone.modojotolo.xyz/provider"  },  {    "name": "lydex",    "url": "https://uae-dx.top:2083/iptv/V6/API-V6.php"  },  {    "name": "Aroma",    "url": "http://privetoth.info:2082/iptv/V6/API-V6.php"  },  {    "name": "Forever",    "url": "http://xwegothere.com:2082"  }]
+[
+  {
+    "name": "ELITE",
+    "url": "https://elite.modojotolo.xyz/tcode/V1/API-V1.php"
+  },
+  {
+    "name": "BRAVO",
+    "url": "https://bravo.modojotolo.xyz/bravo/V1/API-V1.php"
+  },
+  {
+    "name": "FLIX",
+    "url": "https://flix.modojotolo.xyz/flix/tcode/V1/API-V1.php"
+  },
+  {
+    "name": "SPORT",
+    "url": "https://sport.modojotolo.xyz/spider/pro.php"
+  },
+  {
+    "name": "IPFOX",
+    "url": "https://activefox.modojotolo.xyz/ipfox-v7/GET.php"
+  },
+  {
+    "name": "POWER",
+    "url": "https://power.modojotolo.xyz/iptv/V7/API-V7.php"
+  },
+  {
+    "name": "MONDIAL",
+    "url": "https://mondial.modojotolo.xyz/mondial/v1.php"
+  },
+  {
+    "name": "CLOUD",
+    "url": "https://cloud.modojotolo.xyz/tcode/V1/API-V1.php"
+  },
+  {
+    "name": "SPIDER",
+    "url": "https://spider.modojotolo.xyz/iptv/V7/API-V7.php"
+  },
+  {
+    "name": "MYHD",
+    "url": "https://myhd.modojotolo.xyz/iptvkn9585/V6/MyHD.php"
+  },
+  {
+    "name": "TURBO",
+    "url": "https://turbo.modojotolo.xyz/iptvkn9585/V6/Turbo.php"
+  },
+  {
+    "name": "SPEED",
+    "url": "https://speed.modojotolo.xyz/iptvkn9585/V6/MaxFly.php"
+  },
+  {
+    "name": "ZONE",
+    "url": "https://zone.modojotolo.xyz/provider"
+  },
+  {
+    "name": "lydex",
+    "url": "https://uae-dx.top:2083/iptv/V6/API-V6.php"
+  },
+  {
+    "name": "Aroma",
+    "url": "http://privetoth.info:2082/iptv/V6/API-V6.php"
+  },
+  {
+    "name": "Forever",
+    "url": "http://xwegothere.com:2082"
+  },
+  {
+    "name": "Elite Pro",
+    "url": "https://elitesetting.modojotolo.xyz/elite/pro/v1"
+  }
+]
