@@ -66,5 +66,13 @@
   {
     "name": "Elite Pro",
     "url": "https://elitesetting.modojotolo.xyz/elite/pro/v1"
+  },
+  {
+    "name": "Bravo Pro",
+    "url": "https://bravosetting.modojotolo.xyz/bravo/pro/v1"
+  },
+  {
+    "name": "Elite Pro",
+    "url": "https://flixsetting.modojotolo.xyz/flix/pro/v1"
   }
 ]
